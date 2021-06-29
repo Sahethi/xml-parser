@@ -27,6 +27,17 @@ Followed by
   appletviewer XMLParser.java
 ```
 
+To deploy this project on a machine with JDK 9. 
+
+```bash
+  javac XMLParser.java
+```
+Followed by
+
+```bash
+  appletviewer XMLParser.java
+```
+
   
 ## Screenshots
 
@@ -56,7 +67,4 @@ With the help of this project, I understood the working of an XML Parser. I unde
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-## Documentation
-
-[Documentation](https://linktodocumentation)
 
