@@ -38,7 +38,7 @@ Followed by
   
 ## Screenshots
 
-![App Screenshot](images/Screenshot.png)
+![App Screenshot](images/Screenshot.PNG)
 
 ## Tech Stack
 
